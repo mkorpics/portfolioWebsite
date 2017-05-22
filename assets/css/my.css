@@ -1,0 +1,116 @@
+﻿body {
+}
+
+/*HOMEPAGE*/
+   #intro div.content .text .noMargin {
+        margin-bottom: 0;
+    }
+
+/*Pages to show a Project*/
+.marginTop {
+    margin-top: 2em;
+}
+
+section.main.style3.primary.ranchLifeTravel {
+    background-image: url('../../images/text-box backgrounds/wood-2065369_1920.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 2em;
+    color: white;
+}
+
+    section.main.style3.primary.ranchLifeTravel p, a {
+        font-weight: 500;
+    }
+
+section.main.style3.primary .textContent {
+    background-color: rgba(0,0,0,.8);
+}
+
+
+/*About Me*/
+#about div.content.box.style2 {
+    font-size: 18px;
+    width: 60%;
+}
+
+    #about div.content.box.style2 .noMargin {
+        margin-bottom: 0;
+    }
+
+        #about div.content.box.style2 .noMargin p {
+            margin-bottom: 0;
+        }
+
+/*ABOUT PAGE*/
+
+.altStyle div.content.box.style2 {
+    font-size: 18px;
+}
+
+.altStyle.wide div.content.box.style2 {
+    width: 60%;
+}
+
+
+/* aboutIntro */
+
+#aboutIntro {
+    background-image: url('../../images/typewriter.jpg');
+    background-size: cover;
+    background-attachment: fixed, fixed;
+}
+
+/* ancient */
+
+#ancient {
+    background-image: url('../../images/About/texture-1362879_1920.jpg');
+    background-size: cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
+
+/* education */
+
+#education {
+    background-image: url('../../images/About/old-1130743_1920.jpg');
+    background-size: cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
+
+/* intervening */
+
+#intervening {
+    background-image: url('../../images/About/15128869_557617577767829_921436816401402234_o.jpg');
+    background-size: cover;
+    background-attachment: fixed, fixed;
+    background-position: bottom center;
+}
+
+/* road */
+
+#road {
+    background-image: url('../../images/About/15110279_557476037781983_4728015613734292461_o.jpg');
+    background-size: cover;
+    background-attachment: fixed, fixed;
+    background-position: right center;
+}
+
+/* pursuit */
+
+#pursuit {
+    background-image: url('../../images/About/15069072_557476094448644_2359782540297696713_o.jpg');
+    background-size: cover;
+    background-attachment: fixed, fixed;
+    background-position: left center;
+}
+
+/* passion */
+
+#passion {
+    background-image: url('../../images/About/coffee-1869820_1920.jpg');
+    background-size: cover;
+    background-attachment: fixed, fixed;
+    background-position: top left, center center;
+}
